@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amirali8912
 - 👀 I’m interested in Python & Morse Code
 - 🌱 I’m currently learning Python 
-- 📫 reach me in my discord (id : amirali8910 ) , Gmail: amirali8912.138910@gmail.com
+- 📫 reach me in my discord (id : amirali8910 )
 - 😄 Pronouns: He/Him
 - 🙋‍♂️ Age: 14 Years Old
 
